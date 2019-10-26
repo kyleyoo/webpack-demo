@@ -1,0 +1,13 @@
+/*트리 형태로 만들수 있다.*/
+body{
+  background-color: aquamarine;
+  div{
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid red;
+    /*div.active*/
+    &.active{
+
+    }
+  }
+}
